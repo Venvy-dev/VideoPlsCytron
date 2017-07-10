@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
                          'Bill'         => 'fuleiac@gmail.com'          }
-  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsCytronSDK/1.3.4/VideoPlsCytronSDK.zip' }
+  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsCytron/1.3.4/VideoPlsCytronSDK.zip' }
 
   s.ios.deployment_target = '7.0'
 

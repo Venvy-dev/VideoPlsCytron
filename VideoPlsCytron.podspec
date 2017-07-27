@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VideoPlsCytron'
-  s.version          = '1.3.4+1'
+  s.version          = '1.3.5'
   s.summary          = 'VideoPls Cytron Interface View.'
 
 # This description is used to generate tags and improve search results.

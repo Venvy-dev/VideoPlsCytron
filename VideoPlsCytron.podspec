@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '7.0'
 
   s.frameworks = 'WebKit', 'CoreMedia', 'Accelerate'
-  s.dependency 'VideoPlsUtilsPlatform', '1.1.0'
+  s.dependency 'VideoPlsUtilsPlatform', '1.7.0'
 
   s.vendored_frameworks = 'VideoPlsCytronSDK.framework'
 

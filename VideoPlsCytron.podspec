@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'VideoPlsCytron'
-  s.version          = '1.8.3'
+  s.version          = '1.8.4'
   s.summary          = 'VideoPls Cytron Interface View.'
 
 # This description is used to generate tags and improve search results.
@@ -26,12 +26,12 @@ Pod::Spec.new do |s|
   s.author           = { 'Zard1096'     => 'mr.zardqi@gmail.com',
                          'LiShaoshuai'  => 'lishaoshuai1990@gmail.com',   
                          'Bill'         => 'fuleiac@gmail.com'          }
-  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsCytron/VideoPlsCytronSDK_1.8.3.zip' }
+  s.source           = { :http => 'https://cytroncdn.videojj.com/iOS_package/VideoPlsCytron/VideoPlsCytronSDK_1.8.4.zip' }
 
   s.ios.deployment_target = '7.0'
 
   s.frameworks = 'WebKit', 'CoreMedia', 'Accelerate'
-  s.dependency 'VideoPlsUtilsPlatform', '1.8.3'
+  s.dependency 'VideoPlsUtilsPlatform', '1.8.4'
 
   s.vendored_frameworks = 'VideoPlsCytronSDK.framework'
 
